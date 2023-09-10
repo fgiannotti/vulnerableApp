@@ -117,7 +117,7 @@ var userG="";
       },
       submit() {
         this.login({
-          email: userG ,
+          email: userG,
           password: passG
         })
       }
